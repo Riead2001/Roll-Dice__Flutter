@@ -1,16 +1,20 @@
-# first
+🔗 GitHub Repo: github.com/Riead2001/Roll-Dice__Flutter
 
-A new Flutter project.
+I built this Flutter app as a fun practice project to explore Flutter UI, stateful widgets, and random number generation. The app simulates the rolling of a dice with a tap, using a vibrant gradient background and simple animations.
 
-## Getting Started
+🔧 Features:
+🎲 Tap to roll a dice (1–6)
 
-This project is a starting point for a Flutter application.
+🌈 Beautiful gradient background
 
-A few resources to get you started if this is your first Flutter project:
+📱 Responsive UI using Flutter’s widget system
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🧠 Built using Stateful Widgets
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Technologies:
+Flutter
+
+Dart
+
+📸 Screenshots:
+<img width="263" alt="Screenshot 2025-07-09 000118" src="https://github.com/user-attachments/assets/f3e587d5-4107-4d80-b59c-0f023b01997e" />
